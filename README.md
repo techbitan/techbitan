@@ -82,7 +82,7 @@
 - Python Script Development & Automation
 - AI Integration using ChatGPT & DeepSeek
 
-### 🔹 IT Manager | Eurozone Holidays Pvt Ltd
+### 🔹 IT Manager | Ali & Das Ltd
 **November 2023 - May 2024**
 - IT Infrastructure & Cybersecurity Management
 - GDPR Compliance & Data Protection
