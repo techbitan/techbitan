@@ -88,7 +88,7 @@
 - GDPR Compliance & Data Protection
 - Network Administration & System Optimization
 
-### 🔹 Chief Executive Officer | Eurozone Holidays
+### 🔹 Chief Executive Officer | Eurozone Holidays Ltd
 **September 2018 - October 2023**
 - Business Strategy & Team Leadership
 - Cloud Solutions Architecture
